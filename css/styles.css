@@ -1,0 +1,23 @@
+.heading {
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.larger {
+  font-size: larger;
+}
+
+.column_l {
+  width: 300px;
+  float: left;
+}
+
+.column_r {
+  color: rgb(0, 0, 99);
+  width: 600px;
+  float: right;
+}
+
+.center_text {
+  text-align: center;
+}
